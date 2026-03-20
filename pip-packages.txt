@@ -1,0 +1,5 @@
+nbclassic
+nbgitpuller
+jupyterlab-git
+pipdeptree
+jupyterlab-a11y-checker

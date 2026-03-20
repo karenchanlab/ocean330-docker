@@ -1,0 +1,20 @@
+# rttl-notebooks basics
+conda-tree
+requests
+jupyter-resource-usage
+nodejs>=20
+# r packages
+gdal
+r-base
+r-essentials
+r-devtools
+r-tidyverse
+r-shiny
+r-shinydashboard
+r-shinywidgets
+r-plotly
+r-dt
+r-janitor
+r-rmarkdown
+r-knitr
+r-seacarb
